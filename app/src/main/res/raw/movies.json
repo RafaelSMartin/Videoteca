@@ -1,0 +1,92 @@
+[
+  {
+    "id": "0",
+    "title": "Gremlins",
+    "description": "A boy inadvertantly breaks 3 important rules concerning his new pet and unleashes a horde of malevolently mischievous monsters on a small town.",
+    "studio": "Warner Bros.",
+    "videoUrl": "http://clips.vorwaerts-gmbh.de/VfE_html5.mp4",
+    "category": "Comedy",
+    "cardImageUrl": "https://cdn.webshopapp.com/shops/2090/files/212403080/gremlins-ultimate-action-figure-stripe-15-cm.jpg",
+    "bgImageUrl": "https://cdn.webshopapp.com/shops/2090/files/212403080/gremlins-ultimate-action-figure-stripe-15-cm.jpg"
+  },
+  {
+    "id": "1",
+    "title": "Evil Dead (2013)",
+    "description": "Mia, a young woman struggling with sobriety, heads to a remote cabin with her brother and a group of friends, where the discovery of a Book of the Dead leads to danger and horror.",
+    "studio": "TriStar Pictures",
+    "videoUrl": "http://cursofirebase.000webhostapp.com/trailers/EvilDead.mp4",
+    "category": "Horror",
+    "cardImageUrl": "https://pics.filmaffinity.com/army_of_darkness_evil_dead_3-862304484-large.jpg",
+    "bgImageUrl": "https://pics.filmaffinity.com/army_of_darkness_evil_dead_3-862304484-large.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Escape from New York",
+    "description": "In 1997, when the US President crashes into Manhattan, now a giant max. security prison, a convicted bank robber is sent in for a rescue.",
+    "studio": "TriStar Pictures",
+    "videoUrl": "http://cursofirebase.000webhostapp.com/trailers/EscapefromNewYork.mp4",
+    "category": "Action",
+    "cardImageUrl": "https://pics.filmaffinity.com/escape_from_new_york-581509314-large.jpg",
+    "bgImageUrl": "https://pics.filmaffinity.com/escape_from_new_york-581509314-large.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Man of Steel",
+    "description": "A young itinerant worker is forced to confront his secret extrastellar origin when Earth is invaded by members of his own race.",
+    "studio": "Warner Bros.",
+    "videoUrl": "http://cursofirebase.000webhostapp.com/trailers/ManofSteel.mp4",
+    "category": "Action",
+    "cardImageUrl": "https://pics.filmaffinity.com/man_of_steel_superman-919390391-large.jpg",
+    "bgImageUrl": "https://pics.filmaffinity.com/man_of_steel_superman-919390391-large.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Carrie (1976)",
+    "description": "Carrie White is a shy young girl who doesn't make friends easily. After her class mates taunt her about her horrified reaction to her totally unexpected first period one of them takes pity on her and gets Tommy Ross, her boyfriend and class hunk to invite Carrie to the senior prom. Meanwhile another girl who has been banned from the prom for her continued aggressive behaviour is not as forgiving and plans a trick to embarrass Carrie in front of the whole school. What she doesn't realise is that Carrie is ... gifted, and you really don't want to get her angry.",
+    "studio": "MGM",
+    "videoUrl": "http://cursofirebase.000webhostapp.com/trailers/Carrie.mp4",
+    "category": "Horror",
+    "cardImageUrl": "https://pics.filmaffinity.com/carrie-708938121-large.jpg",
+    "bgImageUrl": "https://pics.filmaffinity.com/carrie-708938121-large.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Army of Darkness",
+    "description": "A modern-day man travels back to medieval time to fightan army of the dead. Groovy.",
+    "studio": "Universal",
+    "videoUrl": "http://cursofirebase.000webhostapp.com/trailers/ArmyofDarkness.mp4",
+    "category": "Comedy",
+    "cardImageUrl": "https://pics.filmaffinity.com/army_of_darkness_evil_dead_3-862304484-large.jpg",
+    "bgImageUrl": "https://pics.filmaffinity.com/army_of_darkness_evil_dead_3-862304484-large.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Planet of the Apes (1968)",
+    "description": "An astronaut crew crash lands on a planet in the distant future where intelligent talking apes are the dominant species, and humans are the oppressed and enslaved.",
+    "studio": "20th Century Fox",
+    "videoUrl": "http://cursofirebase.000webhostapp.com/trailers/PlanetoftheApes.mp4",
+    "category": "Action",
+    "cardImageUrl": "https://pics.filmaffinity.com/planet_of_the_apes-541770805-large.jpg",
+    "bgImageUrl": "https://pics.filmaffinity.com/planet_of_the_apes-541770805-large.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Rocky Horror Picture Show",
+    "description": "A newly engaged couple have a breakdown in an isolated area and must pay a call to the bizarre residence of Dr. Frank-N-Furter.",
+    "studio": "20th Century Fox",
+    "videoUrl": "http://cursofirebase.000webhostapp.com/trailers/RockyHorrorPictureShow.mp4",
+    "category": "Comedy",
+    "cardImageUrl": "https://pics.filmaffinity.com/the_rocky_horror_picture_show-848107460-large.jpg",
+    "bgImageUrl": "https://pics.filmaffinity.com/the_rocky_horror_picture_show-848107460-large.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Cabin in the Woods",
+    "description": "Five friends go for a break at a remote cabin in the woods, where they get more than they bargained for. Together, they must discover the truth behind the cabin in the woods.",
+    "studio": "Lions Gate",
+    "videoUrl": "http://cursofirebase.000webhostapp.com/trailers/CabinintheWoods.mp4",
+    "category": "Horror",
+    "cardImageUrl": "https://pics.filmaffinity.com/the_cabin_in_the_woods-405481336-large.jpg",
+    "bgImageUrl": "https://pics.filmaffinity.com/the_cabin_in_the_woods-405481336-large.jpg"
+  }
+]
